@@ -8,4 +8,5 @@ body,
 html {
   font-family: "Inter";
   background-color: var(--color-gray-900);
+  transition: all 0.5s ease-in;
 }
